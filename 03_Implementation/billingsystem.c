@@ -20,6 +20,7 @@ int additem();
 int generatebill();
 int displaybill();
 int deletebill();
+
 FILE *fp1,*fp2,*fp3;
 void main()
 {
