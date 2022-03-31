@@ -1,5 +1,7 @@
 #include<stdio.h>
 #include<string.h>
+#include<add.item.h>
+FILE *fp1
 int additem()
 {
 	int s=1,i=0,id=0,p[30];
